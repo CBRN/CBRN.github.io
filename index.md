@@ -12,9 +12,9 @@ description: 中国管理研究网络
 
 ## **<center>CBRN Seminar Format</center>**
  
-> The seminars will be hosted on a monthly basis starting September 2021, and will take place over Zoom on Wednesdays 9:00-10:30am CST/SGT; Tuesdays 6:00-7:30pm PST; Tuesdays 9:00-10:30pm EST. Each seminar will consist of a 1.5-hour presentation including Q&As. 
+> The seminars are hosted on a monthly basis over Zoom on Wednesdays 9:00-10:00am CST/SGT; Tuesdays 5:00-6:00pm PST; Tuesdays 8:00-9:00pm EST. Each seminar consists of about 10-minute overview of broad related literature and a 50-minute presentation of the research paper. There is also an optional 15-minute Q&A session after the presentation. 
 > 
-> We expect the participants of the seminars to be active researchers and PhD students all over the world. We also expect the audience to be diverse as we hope to promote interdisciplinary research across various business fields and other disciplines.
+> We expect the participants of the seminars to be active researchers and PhD students all over the world. We also expect the audience to be diverse as we hope to promote interdisciplinary research across various business fields and other disciplines. We hope that the 10-minute overview of research field can help familiarize the audience with different business fields.
 > 
 > As CBRN is about China, the papers to be presented will be directly related to China or have significant implications for China (e.g., papers using a new research methodology that will be of significant interest to China-focused researchers). We especially welcome papers that cover new research areas, use new data sources (e.g., big data), or use new research methods (e.g., machine learning).
 
