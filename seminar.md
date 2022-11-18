@@ -9,10 +9,18 @@ If you are interested in receiving information about future workshops, please fi
 
 ## **<center>Workshop Schedule</center>**
 ### **<center>Next workshop</center>**
+### **<center>The Legal Origins of Financial Development: Evidence from the Shanghai Concessions</center>**
 
-|Speaker Name&<br>Affiliation|Date&Time|Title|Abstract|
-|:--|:--|:--|:--|
-|[Chicheng Ma](https://chichengma.weebly.com/)<br>University of Hong Kong|Nov 23rd 2021, 9:00am-10:00am, GMT+8 /Nov 22nd 2021, 5:00pm-6:00pm, PST/Nov 22nd 2021, 8:00pm-9:00pm, EST|The Legal Origins of Financial Development: Evidence from the Shanghai Concessions|The critical challenge to assessing the legal origins view of comparative financial development is identifying exogenous changes in legal systems. We assemble new data on Shanghai’s British and French concessions between 1845 and 1936. Two regime changes altered British and French legal jurisdiction over their respective concessions. By examining the changing application of different legal traditions to adjacent neighborhoods within the same city and controlling for an array of military, economic, and political influences, we offer new evidence consistent with the legal origins view: the financial development advantage in the British concession widened after Western legal jurisdiction intensified and narrowed after it abated.|
+<figure><table>
+<tbody><tr><td style='text-align:left;' ><b>Speaker Name</b></td>
+    <td style='text-align:left;' ><a href='https://chichengma.weebly.com/'>Chicheng Ma</a></td></tr>
+  <tr><td style='text-align:left;' ><b>Affiliation</b></td>
+    <td style='text-align:left;' >University of Hong Kong</td></tr>
+  <tr><td style='text-align:left;' ><b>Date&amp;Time</b></td>
+    <td style='text-align:left;' >Nov 23rd 2021, 9:00am-10:00am, GMT+8 /Nov 22nd 2021, 5:00pm-6:00pm, PST/Nov 22nd 2021, 8:00pm-9:00pm, EST</td></tr>
+  <tr><td style='text-align:left;' ><b>Abstract</b></td>
+    <td style='text-align:left;' >The critical challenge to assessing the legal origins view of comparative financial development is identifying exogenous changes in legal systems. We assemble new data on Shanghai’s British and French concessions between 1845 and 1936. Two regime changes altered British and French legal jurisdiction over their respective concessions. By examining the changing application of different legal traditions to adjacent neighborhoods within the same city and controlling for an array of military, economic, and political influences, we offer new evidence consistent with the legal origins view: the financial development advantage in the British concession widened after Western legal jurisdiction intensified and narrowed after it abated.</td></tr></tbody>
+</table></figure>
 
 **Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
 
