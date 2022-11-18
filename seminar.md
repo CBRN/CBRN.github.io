@@ -9,10 +9,11 @@ If you are interested in receiving information about future workshops, please fi
 
 ## **<center>Workshop Schedule</center>**
 ### **<center>Next workshop</center>**
-### **<center>The Legal Origins of Financial Development: Evidence from the Shanghai Concessions</center>**
 
 <figure><table>
-<tbody><tr><td style='text-align:left;' ><b>Speaker Name</b></td>
+<tbody><tr><td style='text-align:left;' ><b>Title</b></td>
+    <td style='text-align:left;' >The Legal Origins of Financial Development: Evidence from the Shanghai Concessions</td></tr>
+  <tr><td style='text-align:left;' ><b>Speaker</b></td>
     <td style='text-align:left;' ><a href='https://chichengma.weebly.com/'>Chicheng Ma</a></td></tr>
   <tr><td style='text-align:left;' ><b>Affiliation</b></td>
     <td style='text-align:left;' >University of Hong Kong</td></tr>
@@ -22,11 +23,10 @@ If you are interested in receiving information about future workshops, please fi
     <td style='text-align:left;' >The critical challenge to assessing the legal origins view of comparative financial development is identifying exogenous changes in legal systems. We assemble new data on Shanghai’s British and French concessions between 1845 and 1936. Two regime changes altered British and French legal jurisdiction over their respective concessions. By examining the changing application of different legal traditions to adjacent neighborhoods within the same city and controlling for an array of military, economic, and political influences, we offer new evidence consistent with the legal origins view: the financial development advantage in the British concession widened after Western legal jurisdiction intensified and narrowed after it abated.</td></tr></tbody>
 </table></figure>
 
-**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
 
 ## **<center>Past workshops</center>**
 
-|Speaker Name<br>Affiliation<br>Date&Time|Title|Abstract|
+|Speaker<br>Affiliation<br>Date|Title|Abstract|
 |:--|:--|:--|
 |[Yanbo Wang](https://www.hkubs.hku.hk/people/yanbo-wang/)<br>University of Hong Kong<br>Oct. 12, 2022|Has China’s Young Thousand Talents Program been Successful in Recruiting and Nurturing Top Chinese Scientists?|We study China’s Young Thousand Talents (YTT) Program and evaluate its effectiveness, or lack thereof, in recruiting elite expatriate scientists and in nurturing the returnee scientists’ productivity. We find that YTT scientists are generally of high caliber in research but, as a group, fall below the top category in pre-return productivity. We further find that YTT scientists are associated with a post-return publication gain across journal-quality tiers. However, this gain mainly takes place in last-authored publications and for high (albeit not top) caliber recruits and can be explained by YTT scientists’ access to larger funding and research teams. Our paper has policy implications regarding scientific talents’ global mobility, especially in the context that early-stage scientists have increasing challenges to access research funding in the US and EU.|
 |[David Yang](http://davidyyang.com/)<br>Harvard University<br>Sept. 21, 2022|Exporting the Surveillance State via Trade in AI|What are the international ramifications of China’s emergent leadership in facial recognition AI? We collect global data on facial recognition AI trade deals and document two facts. First, we show that China has a comparative advantage in this technology. It is substantially more likely to export facial recognition AI than other countries, and particularly so as compared to other frontier technologies. This comparative advantage may stem in part from the Chinese government’s demand for the technology to support its surveillance state — a form of “home-market” effect — as well as Chinese firms’ access to large government datasets. Second, we find that autocracies and weak democracies are more likely to import facial recognition AI from China, in particular those lacking domestic AI innovation or experiencing political unrest. No such political bias is observed in AI imports from the US or in imports of other frontier technologies from China. To the extent that China may be exporting its surveillance state via trade in AI, this can enhance and beget more autocracies abroad. Regulations of AI trade should thus be framed around regulations on products with global externalities.|
