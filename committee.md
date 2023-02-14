@@ -27,9 +27,13 @@ Please feel free to contact us via email: cbrn@cuhk.edu.cn.
 
 *   AJ Yuan Chen (USC)
 
-*   Serene Huang (Peking U)
-
 *   Emma Wang (University of Toronto)
+
+*   Yue Zhang (Peking U)
+
+### **<center>Past Organizing Committee Member</center>**
+*   Serene Huang (Peking U)
 
 *   Shubo Zhang (Shanghai Jiao Tong University)
 
+*   Mingyue Zhang (University of Waterloo)
