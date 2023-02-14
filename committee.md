@@ -34,6 +34,6 @@ Please feel free to contact us via email: cbrn@cuhk.edu.cn.
 ### **<center>Past Organizing Committee Member</center>**
 *   Serene Huang (Peking U)
 
-*   Shubo Zhang (Shanghai Jiao Tong University)
-
 *   Mingyue Zhang (University of Waterloo)
+
+*   Shubo Zhang (Shanghai Jiao Tong University)
