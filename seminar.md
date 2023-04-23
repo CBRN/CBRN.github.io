@@ -12,7 +12,7 @@ If you are interested in receiving information about future workshops, please fi
 
 <figure><table>
 <tbody><tr><td style='text-align:left;' ><b>Title</b></td>
-    <td style='text-align:left;' >Music-Motion Synchronicity: A Crossmodal Transformer Model of Customer Engagement with Social Media Videos</td></tr>
+    <td style='text-align:left;' >Scared Away: Credit Demand Response to Expected Motherhood Penalty in the Labor Market</td></tr>
   <tr><td style='text-align:left;' ><b>Speaker</b></td>
     <td style='text-align:left;' ><a href='https://sites.google.com/site/wenlanqian/'>Wenlan Qian</a></td></tr>
   <tr><td style='text-align:left;' ><b>Affiliation</b></td>
