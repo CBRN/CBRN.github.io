@@ -14,7 +14,7 @@ If you are interested in receiving information about future workshops, please fi
 <tbody><tr><td style='text-align:left;' ><b>Title</b></td>
     <td style='text-align:left;' >Protecting the Center: Environmental Regulation and Regional Inequality in China</td></tr>
   <tr><td style='text-align:left;' ><b>Speaker</b></td>
-    <td style='text-align:left;' ><a href='https://www.marshall.usc.edu/personnel/nan-jia'>Tong Liu</a></td></tr>
+    <td style='text-align:left;' ><a href='https://sites.google.com/view/tongliu/home'>Tong Liu</a></td></tr>
   <tr><td style='text-align:left;' ><b>Affiliation</b></td>
     <td style='text-align:left;' >National University of Singapore</td></tr>
   <tr><td style='text-align:left;' ><b>Date&amp;Time</b></td>
