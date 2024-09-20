@@ -23,16 +23,24 @@ Please feel free to contact us via email: cbrn@cuhk.edu.cn.
  
 ### **<center>Organizing Committee</center>**
  
-*   Changyi Chen (NUS)
+*   Zhaowei (Jimmy) Chen (NUS)
 
-*   AJ Yuan Chen (USC)
+*   AJ Yuan Chen (University of British Columbia)
 
-*   Emma Wang (University of Toronto)
+*   Jingli Feng (NUS)
+
+*   Lu Liu (Central University of Finance and Economics)
+
+*   Luna Luyue Zhang (Peking U)
 
 *   Yue Zhang (Peking U)
 
 ### **<center>Past Organizing Committee Member</center>**
+*   Changyi Chen (Shanghai University of Finance and Economics)
+
 *   Serene Huang (Peking U)
+
+*   Emma Wang (Cornell University)
 
 *   Mingyue Zhang (University of Waterloo)
 
