@@ -12,15 +12,15 @@ If you are interested in receiving information about future workshops, please fi
 
 <figure><table>
 <tbody><tr><td style='text-align:left;' ><b>Title</b></td>
-    <td style='text-align:left;' >The Law and Economics of Lawyers: Evidence from the Revolving Door in China’ s Judicial System</td></tr>
+    <td style='text-align:left;' >When Disaster Strikes: How Climate Events Influence Employment Preferences</td></tr>
   <tr><td style='text-align:left;' ><b>Speaker</b></td>
-    <td style='text-align:left;' ><a href='https://www.law.hku.hk/academic_staff/dr-liu-zhuang/'>John Zhuang Liu</a></td></tr>
+    <td style='text-align:left;' ><a href='https://www.bschool.cuhk.edu.hk/staff/zhou-yuqing/'>Yuqing Zhou</a></td></tr>
   <tr><td style='text-align:left;' ><b>Affiliation</b></td>
-    <td style='text-align:left;' >University of Hong Kong</td></tr>
+    <td style='text-align:left;' >Chinese University of Hong Kong</td></tr>
   <tr><td style='text-align:left;' ><b>Date&amp;Time</b></td>
-    <td style='text-align:left;' >Sep 25 2024, 9:00am-10:00am, GMT+8 /Sep 24 2024, 6:00pm-7:00pm, PST/Sep 24 2024, 9:00pm-10:00pm, EDT</td></tr>
+    <td style='text-align:left;' >Nov 13, 2024, 9:00am-10:00am, GMT+8 /Nov 12, 2024, 5:00pm-6:00pm, PDT/Nov 12, 2024, 8:00pm-9:00pm, EDT</td></tr>
   <tr><td style='text-align:left;' ><b>Abstract</b></td>
-    <td style='text-align:left;' >This paper studies the roles of lawyers in shaping judicial and economic outcomes, exploiting the unique setting of “revolving-door” lawyers in China’s judicial system. By compiling a comprehensive dataset covering the universes of judges, lawyers, law firms, litigants, and lawsuits in China from 2014 to 2021, we identify over 14,000 judges who left their positions to practice as lawyers, accounting for 6.6% (2.6%) of all judges (lawyers) nationwide. We report three main findings. First, in otherwise identical lawsuits, these revolving-door lawyers obtain significantly more favorable court decisions for their clients. Second, leveraging within-lawyer variation in performances at home vs. away courts, we show that the premium of revolving-door lawyers comes from both “know who” and “know how.” Third, revolving-door lawyers create an efficiency-equity trade-off for society — on the one hand, they present evidence and reasoning to help judges make more informed decisions; on the other hand, they use connections and strategic arguments to help their (affluent) clients, thereby biasing judicial decisions and exacerbating socio-economic inequalities. We extend the theoretical framework of Dewatripont and Tirole (1999) to quantify these trade-offs.</td></tr></tbody>
+    <td style='text-align:left;' >This paper examines how experiences with salient climate events affect workers’ employment preferences. Using novel data on vacancy duration for online job postings and plausibly exogenous variation in the exposure of firms to significant climate events, we find that it takes longer for exposed firms with lower environmental performance to fill their job vacancies compared with their counterparts with better environmental performance. Further analyses suggest that this effect is consistent with exposure to climate disasters heightening job seekers’ awareness of the severity of climate change, leading them to place greater importance on employers’ environmental responsibility in their employment decisions. Moreover, employee reviews decline and turnover rates increase after climate events for environmentally underperforming firms, suggesting that experiences with climate disasters also change current employees’ perceptions of their employers. Our findings highlight the economic consequences of climate risk from the perspective of employment decisions.</td></tr></tbody>
 </table></figure>
 
 
