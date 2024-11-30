@@ -12,15 +12,15 @@ If you are interested in receiving information about future workshops, please fi
 
 <figure><table>
 <tbody><tr><td style='text-align:left;' ><b>Title</b></td>
-    <td style='text-align:left;' >When Disaster Strikes: How Climate Events Influence Employment Preferences</td></tr>
+    <td style='text-align:left;' >Licensing and Auditor Performance: Evidence from the CPA Exam Reform in China</td></tr>
   <tr><td style='text-align:left;' ><b>Speaker</b></td>
-    <td style='text-align:left;' ><a href='https://www.bschool.cuhk.edu.hk/staff/zhou-yuqing/'>Yuqing Zhou</a></td></tr>
+    <td style='text-align:left;' ><a href='https://www.bschool.cuhk.edu.hk/staff/zhuang-zili/#:~:text=Prof.,from%20Renmin%20University%20of%20China.'>Zili Zhuang</a></td></tr>
   <tr><td style='text-align:left;' ><b>Affiliation</b></td>
     <td style='text-align:left;' >Chinese University of Hong Kong</td></tr>
   <tr><td style='text-align:left;' ><b>Date&amp;Time</b></td>
-    <td style='text-align:left;' >Nov 13, 2024, 9:00am-10:00am, GMT+8 /Nov 12, 2024, 5:00pm-6:00pm, PDT/Nov 12, 2024, 8:00pm-9:00pm, EDT</td></tr>
+    <td style='text-align:left;' >Dec 4, 2024, 9:00am-10:00am, GMT+8 /Dec 3, 2024, 5:00pm-6:00pm, PDT/Dec 3, 2024, 8:00pm-9:00pm, EDT</td></tr>
   <tr><td style='text-align:left;' ><b>Abstract</b></td>
-    <td style='text-align:left;' >This paper examines how experiences with salient climate events affect workers’ employment preferences. Using novel data on vacancy duration for online job postings and plausibly exogenous variation in the exposure of firms to significant climate events, we find that it takes longer for exposed firms with lower environmental performance to fill their job vacancies compared with their counterparts with better environmental performance. Further analyses suggest that this effect is consistent with exposure to climate disasters heightening job seekers’ awareness of the severity of climate change, leading them to place greater importance on employers’ environmental responsibility in their employment decisions. Moreover, employee reviews decline and turnover rates increase after climate events for environmentally underperforming firms, suggesting that experiences with climate disasters also change current employees’ perceptions of their employers. Our findings highlight the economic consequences of climate risk from the perspective of employment decisions.</td></tr></tbody>
+    <td style='text-align:left;' >We utilize the CPA licensing reform in China, which introduced two new subjects into the CPA exam, to evaluate its effect on auditor performance. Our findings indicate that auditors licensed under the new regime exhibit higher audit quality, with fewer irregularities and a reduced incidence of Type II errors. Additionally, these auditors show improved skills in identifying client risks and allocating audit efforts accordingly, aligning with the new CPA tests' focus on risk management. Further analysis reveals that these auditors experience faster career progression and are assigned to riskier audit projects. Lastly, we observe no impact of the licensing change on auditor labor supply. Our study suggests that licensing requirements focused on occupation-specific human capital—rather than the general education mandates such as the 150-hour rule—can enhance audit quality performance. It underscores the importance in understanding the specifics of licensing requirements when evaluating the economic impact of occupational licensing.</td></tr></tbody>
 </table></figure>
 
 
