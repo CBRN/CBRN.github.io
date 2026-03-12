@@ -25,17 +25,21 @@ Please feel free to contact us via email: cbrn@cuhk.edu.cn.
  
 *   Zhaowei (Jimmy) Chen (NUS)
 
-*   AJ Yuan Chen (University of British Columbia)
-
 *   Jingli Feng (NUS)
 
+*   Mengqiao Li (Frankfurt School of Finance & Management)
+
 *   Lu Liu (Central University of Finance and Economics)
+
+*   Jingxuan Xiao (Peking U)
 
 *   Luna Luyue Zhang (Peking U)
 
 *   Yue Zhang (Peking U)
 
 ### **<center>Past Organizing Committee Member</center>**
+*   AJ Yuan Chen (University of British Columbia)
+
 *   Changyi Chen (Shanghai University of Finance and Economics)
 
 *   Serene Huang (Peking U)
